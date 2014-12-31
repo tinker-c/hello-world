@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Test project
+Hi, people, I'm just testing this project out.
